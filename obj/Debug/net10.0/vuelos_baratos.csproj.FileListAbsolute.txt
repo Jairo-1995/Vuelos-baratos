@@ -1,0 +1,14 @@
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\bin\Debug\net10.0\vuelos_baratos.exe
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\bin\Debug\net10.0\vuelos_baratos.deps.json
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\bin\Debug\net10.0\vuelos_baratos.runtimeconfig.json
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\bin\Debug\net10.0\vuelos_baratos.dll
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\bin\Debug\net10.0\vuelos_baratos.pdb
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.AssemblyInfoInputs.cache
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.AssemblyInfo.cs
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.csproj.CoreCompileInputs.cache
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.dll
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\refint\vuelos_baratos.dll
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.pdb
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\vuelos_baratos.genruntimeconfig.cache
+C:\Users\Mishell Grefa\Documents\Vuelos baratos\obj\Debug\net10.0\ref\vuelos_baratos.dll
